@@ -1,7 +1,4 @@
-<?php
-  require 'head.php';
-  require 'header.php';
-?>
+<?php  require 'header.php'; ?>
 
 <!-- banner start -->
 <!-- ================ -->

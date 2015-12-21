@@ -205,14 +205,13 @@
 <script type="text/javascript" src="plugins/jquery.min.js"></script>
 <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
 
-<!-- Modernizr javascript -->
-<script type="text/javascript" src="plugins/modernizr.js"></script>
+
+		<!-- Modernizr javascript -->
+		<script type="text/javascript" src="plugins/modernizr.js"></script>
 
 <!-- jQuery Revolution Slider  -->
 <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-
 
 
 <!-- Isotope javascript -->
@@ -224,17 +223,12 @@
 <!-- Appear javascript -->
 <script type="text/javascript" src="plugins/waypoints/jquery.waypoints.min.js"></script>
 
-<!-- Count To javascript -->
-<script type="text/javascript" src="plugins/jquery.countTo.js"></script>
 
 <!-- Parallax javascript -->
 <script src="plugins/jquery.parallax-1.1.3.js"></script>
 
 <!-- Contact form -->
 <script src="plugins/jquery.validate.js"></script>
-
-<!-- Background Video -->
-<script src="plugins/vide/jquery.vide.js"></script>
 
 <!-- Owl carousel javascript -->
 <script type="text/javascript" src="plugins/owl-carousel/owl.carousel.js"></script>
@@ -248,5 +242,6 @@
 
 <!-- Custom Scripts -->
 <script type="text/javascript" src="js/custom.js"></script>
+
 </body>
 </html>
