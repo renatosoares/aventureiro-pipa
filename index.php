@@ -243,11 +243,11 @@
       </div>
       <div class="col-md-4 ">
         <div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-          <img src="images/passeio-lancha-min-320.jpg" alt="" class="img-thumbnail"/>
+          <img src="images/lanchamin.jpg" alt="" class="img-thumbnail"/>
           <hr>
           <h3>PASSEIO DE LANCHA</h3>
           <div class="separator clearfix"></div>
-            <p>Iure sequi unde hic. Sapiente quaerat sequi inventore veritatis cumque lorem ipsum dolor sit amet, consectetur.</p>
+            <p>Passeio de lancha pelas belas praias da pipa com paradas para apreciar um banho e a vista das belas praias. A lancha visita a praia do amor, as falésias do chapadão, a baía dos golfinhos, a praia do madeiro e a praia de cacimbinha</p>
           <a href="tours-speedboat">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
@@ -257,7 +257,10 @@
           <hr>
           <h3>PÔR DO SOL</h3>
           <div class="separator clearfix"></div>
-          <p>Iure sequi unde hic. Sapiente quaerat sequi inventore veritatis cumque lorem ipsum dolor sit amet, consectetur.</p>
+          <p>Passeio de Catamarã pela Lagoa de Guarairas com almoço e bebidas livre.
+          o passeio proporciona visões exclusivas deste cenário formado por ilhas e praias paradisíacas.
+          Será possível tomar banhos e fazer paradas apreciando a beleza da paisagem.
+          O lindo espetáculo do pôr do sol na lagoa, será inesquecível!</p>
           <a href="tours-sunset.html">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
@@ -312,7 +315,10 @@
       <div class="col-md-8 col-md-offset-2">
         <h2 class="text-center">Sobre <strong>nós</strong></h2>
         <div class="separator"></div>
-        <p class="large text-center">Aventureiro, 25 anos de experiência! Empresa pioneira nos passeios ecologicos em Pipa.</p>
+        <p class="large text-center">O Aventureiro, 25 anos de experiência! Empresa pioneira nos passeios náuticos da praia da Pipa.
+        Nossas embarcações possuem tudo que é necessário para uma navegação agradável e relaxante, inclusive largas áreas sombreadas, 
+        assentos com almofadas, banheiros, bar e som. A segurança é garantida por contínuas verificações diárias, manuntenção anual completa
+        e uma tripulaçao com mais de 20 anos de experiência. Os barcos possuem o certificado de navegação de segurança das autoridades marítimas brasileiras.</p>
         <br>
       </div>
     </div>
@@ -324,7 +330,7 @@
           <img src="images/sobre-nos.jpg" alt="">
         </div>
         <div class="col-md-6">
-          <p class="space-top">Nossa central Ponto Do Aventureiro funciona diariàmente das 9h30 às 13h30 Estamos localizados na Praia Central de Pipa, próximos ao local do embarque. Ponto de referència para chegar : Hotel Pipa’s Bay.</p>
+          <p class="space-top">Nossa central Ponto Do Aventureiro funciona diariamente das 9h30 às 13h30 Estamos localizados na Praia Central de Pipa, próximos ao local do embarque. Ponto de referència para chegar : Hotel Pipa’s Bay.</p>
 
           <div class="media">
             <div class="media-left pr-20">
@@ -361,8 +367,8 @@
           </div>
           <p><i class="icon-lifebuoy"></i> Todas as nossas embarcaçoes possuem o Certificado de Segurança da Navegação das Autoridades  Marítimas Brasileiras, que afirma que os barcos são totalmente adequados às regulamentações e exigências da lei.</p>
           <p><i class="icon-lifebuoy"></i> A organização e execução dos nossos passeios são executadas em total respeito ao ambiente marinho. </p>
-          <p><i class="icon-lifebuoy"></i> A idade mínima permitida para o embarque das crianças é de 6 a 10 anos</p>
-          <p><i class="icon-lifebuoy"></i> Animais são proibidos à bordo.</p>
+          <p><i class="icon-lifebuoy"></i> A idade mínima permitida para o embarque das crianças é de 6 anos.</p>
+          <p><i class="icon-lifebuoy"></i> Crianças de 6 a 10 anos pagam menos</p>
 
           <p><a href="page-services.html" class="btn btn-default-transparent btn-animated">Conheça nossos passeios! <i class="fa fa-arrow-right pl-10"></i></a></p>
         </div>
