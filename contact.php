@@ -1,5 +1,14 @@
 <?php  require 'header.php'; ?>
+<?php
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $subject = $_POST['subject'];
+  $message = $_POST['message'] ;
 
+  $to = 'renatosoarespro@gmail.com';
+
+  //mail($to, $subject, $message, 'From:' . $email);
+ ?>
 
   <!-- banner start -->
   <!-- ================ -->
@@ -61,8 +70,9 @@
               <div class="alert alert-danger hidden" id="MessageNotSent">
                 Oops! Something went wrong please refresh the page and try again.
               </div>
+              <?php echo $name; ?>
               <div class="contact-form">
-                <form id="contact-form" class="margin-clear" role="form">
+                <form id="contact-form" class="margin-clear" role="form" action="contact.php" method="post">
                   <div class="form-group has-feedback">
                     <label for="name">Nome*</label>
                     <input type="text" class="form-control" id="name" name="name" placeholder="">
