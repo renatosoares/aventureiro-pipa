@@ -136,7 +136,7 @@
 								<div class="header-left clearfix">
 									<!-- logo -->
 									<div id="logo" class="logo">
-										<a href="index.html"><img id="logo_img" src="images/avent_logo_horiz.png" alt="Aventureiro Pipa"></a>
+										<a href="index.php"><img id="logo_img" src="images/avent_logo_horiz.png" alt="Aventureiro Pipa"></a>
 									</div>
 								</div>
 								<!-- header-left end -->
@@ -178,7 +178,7 @@
 												<ul class="nav navbar-nav ">
 													<!-- mega-menu start -->
 													<li class="dropdown active mega-menu">
-														<a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+														<a href="index.php" class="dropdown-toggle" data-toggle="dropdown">Home</a>
 													</li>
 													<li class="dropdown">
 														<a href="#tours" class="dropdown-toggle" data-toggle="dropdown">Passeios</a>
@@ -193,7 +193,7 @@
 														<a href="movies.php" class="dropdown-toggle" data-toggle="dropdown">Vídeos</a>
 													</li>
 													<li class="dropdown">
-														<a href="contact.html" class="dropdown-toggle" data-toggle="dropdown">Contato</a>
+														<a href="contact.php" class="dropdown-toggle" data-toggle="dropdown">Contato</a>
 													</li>
 												</ul>
 												<!-- main-menu end -->
