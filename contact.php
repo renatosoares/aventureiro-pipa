@@ -3,11 +3,17 @@
   $name = $_POST['name'];
   $email = $_POST['email'];
   $subject = $_POST['subject'];
-  $message = $_POST['message'] ;
+  $message = $_POST['message'] . "\n Essa mensagem foi enviad por:" . $name;
 
   $to = 'renatosoarespro@gmail.com';
 
-  //mail($to, $subject, $message, 'From:' . $email);
+  mail($to, $subject, $message, 'From:' . $email);
+
+  $alert = "hidden";
+  if ($_POST["submit"]) {
+    $alert = "";
+  }
+
  ?>
 
   <!-- banner start -->
@@ -64,15 +70,16 @@
           <div class="row">
             <div class="col-md-6">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet quisquam.</p>
-              <div class="alert alert-success hidden" id="MessageSent">
-                We have received your message, we will contact you very soon.
+              <div class="alert alert-success  <?php echo $alert; ?>" id="MessageSent">
+                Recebemos sua mensagem, em breve vamos entrar em contato.
               </div>
               <div class="alert alert-danger hidden" id="MessageNotSent">
                 Oops! Something went wrong please refresh the page and try again.
               </div>
-              <?php echo $name; ?>
+
               <div class="contact-form">
-                <form id="contact-form" class="margin-clear" role="form" action="contact.php" method="post">
+                <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" class="margin-clear" role="form">
+                <!-- <form id="contact-form" class="margin-clear" role="form" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post"> -->
                   <div class="form-group has-feedback">
                     <label for="name">Nome*</label>
                     <input type="text" class="form-control" id="name" name="name" placeholder="">
@@ -93,8 +100,9 @@
                     <textarea class="form-control" rows="6" id="message" name="message" placeholder=""></textarea>
                     <i class="fa fa-pencil form-control-feedback"></i>
                   </div>
-                  <input type="submit" value="Enviar" class="submit-button btn btn-default">
+                  <input type="submit" name="submit" value="Enviar" class="submit-button btn btn-default">
                 </form>
+
               </div>
             </div>
             <div class="col-md-6">
