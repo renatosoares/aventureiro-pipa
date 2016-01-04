@@ -77,7 +77,7 @@
 										<li class="skype"><a target="_blank" href="http://www.skype.com/"><i class="fa fa-skype"></i></a></li>
 										<li class="googleplus"><a target="_blank" href="https://plus.google.com/115363997268211609732/about"><i class="fa fa-google-plus"></i></a></li>
 										<li class="youtube"><a target="_blank" href="https://www.youtube.com/channel/UCChv2KdaMMPaKet2rZAM8xw"><i class="fa fa-youtube-play"></i></a></li>
-										<li class="flickr"><a target="_blank" href="https://www.instagram.com/aventureiropasseiosdebarco/"><i class="fa fa-flickr"></i></a></li>
+										<li class="instagram"><a target="_blank" href="https://www.instagram.com/aventureiropasseiosdebarco/"><i class="fa fa-instagram"></i></a></li>
 										<li class="facebook"><a target="_blank" href="https://www.facebook.com/Aventureiro-Passeios-de-Barco-104219146282250/?fref=ts"><i class="fa fa-facebook"></i></a></li>
 										<li class="pinterest"><a target="_blank" href="https://www.instagram.com/aventureiropasseiosdebarco/"><i class="fa fa-pinterest"></i></a></li>
 									</ul>
@@ -90,7 +90,7 @@
 												<li class="googleplus"><a target="_blank" href="https://plus.google.com/115363997268211609732/about"><i class="fa fa-google-plus"></i></a></li>
 												<li class="youtube"><a target="_blank" href="https://www.youtube.com/channel/UCChv2KdaMMPaKet2rZAM8xw"><i class="fa fa-youtube-play"></i></a></li>
 												<li class="flickr"><a target="_blank" href="http://www.flickr.com/"><i class="fa fa-flickr"></i></a></li>
-												<li class="facebook"><a target="_blank" href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+												<li class="facebook"><a target="_blank" href="https://www.facebook.com/Aventureiro-Passeios-de-Barco-104219146282250/?fref=ts"><i class="fa fa-facebook"></i></a></li>
 												<li class="pinterest"><a target="_blank" href="http://www.pinterest.com/"><i class="fa fa-pinterest"></i></a></li>
 											</ul>
 										</div>

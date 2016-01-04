@@ -261,7 +261,7 @@
           o passeio proporciona visões exclusivas deste cenário formado por ilhas e praias paradisíacas.
           Será possível tomar banhos e fazer paradas apreciando a beleza da paisagem.
           O lindo espetáculo do pôr do sol na lagoa, será inesquecível!</p>
-          <a href="tours-sunset.html">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
+          <a href="trip-sunset.php">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
       <div class="col-md-4 ">
@@ -316,7 +316,7 @@
         <h2 class="text-center">Sobre <strong>nós</strong></h2>
         <div class="separator"></div>
         <p class="large text-center">O Aventureiro, 25 anos de experiência! Empresa pioneira nos passeios náuticos da praia da Pipa.
-        Nossas embarcações possuem tudo que é necessário para uma navegação agradável e relaxante, inclusive largas áreas sombreadas, 
+        Nossas embarcações possuem tudo que é necessário para uma navegação agradável e relaxante, inclusive largas áreas sombreadas,
         assentos com almofadas, banheiros, bar e som. A segurança é garantida por contínuas verificações diárias, manuntenção anual completa
         e uma tripulaçao com mais de 20 anos de experiência. Os barcos possuem o certificado de navegação de segurança das autoridades marítimas brasileiras.</p>
         <br>
