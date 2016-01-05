@@ -21,13 +21,13 @@
           <div class="col-md-3">
             <div class="footer-content">
               <div class="logo-footer"><img id="logo-footer" src="images/avent_logo_horiz.png" alt=""></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus illo vel dolorum soluta consectetur doloribus sit. Delectus non tenetur odit dicta vitae debitis suscipit doloribus. Ipsa, aut voluptas quaerat... <a href="#about">Mais detalhes<i class="fa fa-long-arrow-right pl-5"></i></a></p>
+              <p>O Aventureiro, 25 anos de experiência! Empresa pioneira nos passeios náuticos da praia da Pipa. Embarcações novas e elegantes, completas para garantir conforto e segurança. Todas as nossas embarcaçoes possuem o Certificado de Segurança da Navegação das Autoridades Marítimas Brasileiras.</p>
               <div class="separator-2"></div>
               <nav>
                 <ul class="nav nav-pills nav-stacked">
-                  <li><a  href="#tours">Passeios</a></li>
-                  <li><a href="#about">Sobre nós</a></li>
-                  <li><a href="contact.html">Contatos</a></li>
+                  <li><a  href="index.php#tours">Passeios</a></li>
+                  <li><a href="index.php#about">Sobre nós</a></li>
+                  <li><a href="contact.php">Contatos</a></li>
 
                 </ul>
               </nav>
@@ -89,7 +89,6 @@
                 </div>
               </div>
               <div class="text-right space-top">
-                <a href="blog-large-image-right-sidebar.html" class="link-dark"><i class="fa fa-plus-circle pl-5 pr-5"></i>Mais	</a>
               </div>
             </div>
           </div>
@@ -156,7 +155,7 @@
             <div class="footer-content">
               <h2 class="title">Redes socias</h2>
               <div class="separator-2"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium odio voluptatem necessitatibus illo vel dolorum soluta.</p>
+              <p>Siga-nos nas redes sociais para ficar por dentro das novidades e promoções dos nossos passeios.</p>
               <ul class="social-links circle animated-effect-1">
                 <li class="facebook"><a target="_blank" href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
                 <li class="twitter"><a target="_blank" href="http://www.twitter.com/"><i class="fa fa-twitter"></i></a></li>
@@ -167,8 +166,10 @@
               <div class="separator-2"></div>
               <ul class="list-icons">
                 <li><i class="fa fa-map-marker pr-10 text-default"></i> Pipa, RN, Brasil</li>
-                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 98999 1234</li>
-                <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>contato@aventureiropipa.com</a></li>
+                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999252922</li>
+                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999881784</li>
+                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 996905995</li>
+                <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>reservas@aventureiropipa.com</a></li>
               </ul>
             </div>
           </div>
@@ -185,7 +186,7 @@
       <div class="subfooter-inner">
         <div class="row">
           <div class="col-md-12">
-            <p class="text-center">Copyright © 2015  <a target="_blank" href="http://www.rexweb.net.br">REXweb</a>. All Rights Reserved</p>
+            <p class="text-center">Copyright © 2015  <a target="_blank" href="http://www.rexweb.com.br">REXweb</a>. All Rights Reserved</p>
           </div>
         </div>
       </div>

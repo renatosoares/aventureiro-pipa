@@ -40,7 +40,7 @@
             data-splitin="chars"
             data-elementdelay="0.1"
             data-endelementdelay="0.1"
-            data-splitout="chars">Inspiração
+            data-splitout="chars">Aventura
           </div>
 
           <!-- LAYER NR. 2 -->
@@ -132,7 +132,7 @@
             data-easing="easeOutQuad"
             data-start="5800"
             data-end="10000"
-            data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Nesciunt, maiores, aliquid. Repellat eum numquam aliquid culpa offici, <br> tenetur fugiat dolorum sapiente eligendi...
+            data-endspeed="600">Venha desfrutar de nossos passeios
           </div>
 
           <!-- LAYER NR. 10 -->
@@ -173,7 +173,7 @@
             data-speed="500"
             data-start="1000"
             data-easing="easeOutQuad"
-            data-end="10000"><span class="logo-font">Ferias...</span> <br> As mais belas praias de Pipa
+            data-end="10000"><span class="logo-font">Passeios de catamarã e lancha</span> <br> pelas mais belas praias de Pipa
           </div>
 
           <!-- LAYER NR. 2 -->
@@ -239,7 +239,7 @@
       <div class="col-md-8 col-md-offset-2">
         <h2 class="text-center">Nossos <strong>Passeios</strong></h2>
         <div class="separator"></div>
-        <p class="large text-center">Em sua visita a Pipa passe explore as atracções únicas e fascinantes da nossa bela cidade! O Aventureiro Pipa tem o prazer de proporcionar passeios por belas praias, juntamente com uma variedade de atrações populares. Reserve os seus bilhetes on-line e vejas as belas atrações da cidade!</p>
+        <p class="large text-center">Em sua visita a Pipa desfrute das atrações únicas e encantadoras da nossa bela cidade! O Aventureiro Pipa tem o prazer de proporcionar passeios por belas praias, oferecendo um visual deslubrante de cada uma delas. Reserve os seus bilhetes on-line e vejas as belas atrações da cidade!</p>
       </div>
       <div class="col-md-4 ">
         <div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
@@ -247,7 +247,7 @@
           <hr>
           <h3>PASSEIO DE LANCHA</h3>
           <div class="separator clearfix"></div>
-            <p>Passeio de lancha pelas belas praias da pipa com paradas para apreciar um banho e a vista das belas praias. A lancha visita a praia do amor, as falésias do chapadão, a baía dos golfinhos, a praia do madeiro e a praia de cacimbinha</p>
+            <p>Passeio de lancha pelas praias da Pipa com paradas para apreciar um banho e a vista das belas praias. A lancha visita a praia do amor, as falésias do chapadão, a baía dos golfinhos, a praia do madeiro e a praia de cacimbinha</p>
           <a href="tours-speedboat">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
@@ -270,7 +270,7 @@
           <hr>
           <h3>PRAIAS DE PIPA</h3>
           <div class="separator clearfix"></div>
-          <p>Inventore dolores aut laboriosam cum consequuntur delectus sequi lorem ipsum dolor sit amet, consectetur.</p>
+          <p>Passeio de catamarã ou escuna pelas praias da Pipa, visitando a Praia do Amor, as Falésias do Chapadão, Baía dos Golfinhos, Praia do Madeiro e a praia de cacimbinhas. Com parada para tomar banho nas praias</p>
           <a href="tours-beaches.html">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
@@ -292,11 +292,11 @@
           <div class="row">
             <div class="col-sm-8">
               <h1 class="title">FAÇA SUA RESERVA E APROVEITE NOSSAS OFERTAS</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quasi explicabo consequatur consectetur, a atque voluptate officiis eligendi nostrum.</p>
+              <p>Entre em contato conosco para reservar seu passeio e para mais informações</p>
             </div>
             <div class="col-sm-4">
               <br>
-              <p><a href="#" class="btn btn-lg btn-gray-transparent btn-animated">Reserve agora!<i class="fa fa-arrow-right pl-20"></i></a></p>
+              <p><a href="contact.php" class="btn btn-lg btn-gray-transparent btn-animated">Reserve agora!<i class="fa fa-arrow-right pl-20"></i></a></p>
             </div>
           </div>
         </div>
@@ -370,7 +370,7 @@
           <p><i class="icon-lifebuoy"></i> A idade mínima permitida para o embarque das crianças é de 6 anos.</p>
           <p><i class="icon-lifebuoy"></i> Crianças de 6 a 10 anos pagam menos</p>
 
-          <p><a href="page-services.html" class="btn btn-default-transparent btn-animated">Conheça nossos passeios! <i class="fa fa-arrow-right pl-10"></i></a></p>
+          <p><a href="#tours" class="btn btn-default-transparent btn-animated">Conheça nossos passeios! <i class="fa fa-arrow-right pl-10"></i></a></p>
         </div>
       </div>
     </div>
