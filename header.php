@@ -179,13 +179,13 @@
 														<a href="index.php" class="dropdown-toggle" data-toggle="dropdown">Home</a>
 													</li>
 													<li class="dropdown">
-														<a href="#tours" class="dropdown-toggle" data-toggle="dropdown">Passeios</a>
+														<a href="index.php#tours" class="dropdown-toggle" data-toggle="dropdown">Passeios</a>
 													</li>
 													<li class="dropdown">
-														<a href="#reservation" class="dropdown-toggle" data-toggle="dropdown">Reserva</a>
+														<a href="index.php#reservation" class="dropdown-toggle" data-toggle="dropdown">Reserva</a>
 													</li>
 													<li class="dropdown">
-														<a href="#about" class="dropdown-toggle" data-toggle="dropdown">Sobre nós</a>
+														<a href="index.php#about" class="dropdown-toggle" data-toggle="dropdown">Sobre nós</a>
 													</li>
 													<li class="dropdown">
 														<a href="movies.php" class="dropdown-toggle" data-toggle="dropdown">Vídeos</a>
