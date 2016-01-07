@@ -29,31 +29,31 @@
             <div class="col-md-6">
               <div class="owl-carousel content-slider-with-controls">
                 <div class="overlay-container overlay-visible">
-                  <img src="images/lancha-proxima.jpg" alt="">
+                  <img src="images/praias.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
                     <div class="text">
                       <h3 class="title">Podemos fazê-lo</h3>
                     </div>
                   </div>
-                  <a href="images/lancha-proxima.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                  <a href="images/praias.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
-                  <img src="images/mulher-oculus-azul-bebida.jpg" alt="">
+                  <img src="images/mulher-chapeu.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
                     <div class="text">
                       <h3 class="title">Você pode confiar em nós</h3>
                     </div>
                   </div>
-                  <a href="images/mulher-oculus-azul-bebida.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                  <a href="images/mulher-chapeu.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
-                  <img src="images/coqueiros-margem.jpg" alt="">
+                  <img src="images/praia-golfinho.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
                     <div class="text">
                       <h3 class="title">Nós amamos o que fazemos</h3>
                     </div>
                   </div>
-                  <a href="images/coqueiros-margem.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                  <a href="images/praia-golfinho.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
               </div>
             </div>

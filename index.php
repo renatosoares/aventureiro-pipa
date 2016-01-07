@@ -271,7 +271,7 @@
           <h3>PRAIAS DE PIPA</h3>
           <div class="separator clearfix"></div>
           <p>Passeio de catamarã ou escuna pelas praias da Pipa, visitando a Praia do Amor, as Falésias do Chapadão, Baía dos Golfinhos, Praia do Madeiro e a praia de cacimbinhas. Com parada para tomar banho nas praias</p>
-          <a href="tours-beaches.html">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
+          <a href="trip-beaches.php">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
     </div>
