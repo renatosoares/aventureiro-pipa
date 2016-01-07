@@ -1,6 +1,6 @@
 <!-- banner start -->
 <!-- ================ -->
-<div class="banner dark-translucent-bg" style="background-image:url('images/page-about-banner-1.jpg'); background-position: 50% 27%;">
+<div class="banner dark-translucent-bg" style="background-image:url('images/onda.jpg'); background-position: 50% 27%;">
   <!-- breadcrumb start -->
   <!-- ================ -->
   <div class="breadcrumb-container">
@@ -15,9 +15,9 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8 text-center col-md-offset-2 pv-20">
-        <h3 class="title logo-font object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">The <span class="text-default">Project</span> Inc.</h3>
+        <h3 class="title logo-font object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Viva uma <span class="text-default">experiência única</span> no coração Pipa</h3>
         <div class="separator object-non-visible mt-10" data-animation-effect="fadeIn" data-effect-delay="100"></div>
-        <p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p>
+        <p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Experimente uma nova forma de conhecer os principais cartões postais de Pipa. Oferecemos um serviço diferenciado, com um ótimo atendimento e dedicação. Nosso objetivo é criar uma verdadeira experiência para nossos clientes e parceiros. Seja em um passeio com sua família ou em um passeios romântico, a segurança e a diversão estão garantidos.</p>
       </div>
     </div>
   </div>
