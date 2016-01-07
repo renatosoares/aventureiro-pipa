@@ -111,7 +111,7 @@
                 <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999252922</li>
                 <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999881784</li>
                 <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 996905995</li>
-                <li><a href="contact.php?"><i class="fa fa-envelope-o pr-10"></i>reservas@aventureiropipa.com</a></li>
+                <li><a href="contact.php?assunto=Reserva#message"><i class="fa fa-envelope-o pr-10"></i>reservas@aventureiropipa.com</a></li>
               </ul>
             </div>
           </div>

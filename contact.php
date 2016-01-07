@@ -65,7 +65,7 @@
 
         <!-- main start -->
         <!-- ================ -->
-        <div class="main col-md-12 space-bottom">
+        <div class="main col-md-12 space-bottom" id="message">
           <h2 class="title">Deixe-nos uma mensagem</h2>
           <div class="row">
             <div class="col-md-6">
@@ -92,7 +92,7 @@
                   </div>
                   <div class="form-group has-feedback">
                     <label for="subject">Assunto*</label>
-                    <input type="text" class="form-control" id="subject" name="subject" placeholder="">
+                    <input type="text" class="form-control" id="subject" name="subject" placeholder="Ex.: Sugestão, Reserva, Horário..." value="<?php $subjectValue = ($_GET['assunto']) ? "Reservas" : "" ; echo $subjectValue; ?>">
                     <i class="fa fa-navicon form-control-feedback"></i>
                   </div>
                   <div class="form-group has-feedback">
