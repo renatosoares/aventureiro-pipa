@@ -248,7 +248,7 @@
           <h3>PASSEIO DE LANCHA</h3>
           <div class="separator clearfix"></div>
             <p>Passeio de lancha pelas praias da Pipa com paradas para apreciar um banho e a vista das belas praias. A lancha visita a praia do amor, as falésias do chapadão, a baía dos golfinhos, a praia do madeiro e a praia de cacimbinha</p>
-          <a href="tours-speedboat">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
+          <a href="trip-speedboat.php">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
       <div class="col-md-4 ">
