@@ -18,7 +18,7 @@
     <div class="container">
       <div class="footer-inner">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-4">
             <div class="footer-content">
               <div class="logo-footer"><img id="logo-footer" src="images/avent_logo_horiz.png" alt=""></div>
               <p>O Aventureiro, 25 anos de experiência! Empresa pioneira nos passeios náuticos da praia da Pipa. Embarcações novas e elegantes, completas para garantir conforto e segurança. Todas as nossas embarcaçoes possuem o Certificado de Segurança da Navegação das Autoridades Marítimas Brasileiras.</p>
@@ -33,66 +33,8 @@
               </nav>
             </div>
           </div>
-          <div class="col-md-3">
-            <div class="footer-content">
-              <h2 class="title">Últimas notícias</h2>
-              <div class="separator-2"></div>
-              <div class="media margin-clear">
-                <div class="media-left">
-                  <div class="overlay-container">
-                    <img class="media-object" src="images/blog-thumb-1.jpg" alt="blog-thumb">
-                    <a href="blog-post.html" class="overlay-link small"><i class="fa fa-link"></i></a>
-                  </div>
-                </div>
-                <div class="media-body">
-                  <h6 class="media-heading"><a href="blog-post.html">Lorem ipsum dolor sit amet...</a></h6>
-                  <p class="small margin-clear"><i class="fa fa-calendar pr-10"></i>Mar 23, 2015</p>
-                </div>
-                <hr>
-              </div>
-              <div class="media margin-clear">
-                <div class="media-left">
-                  <div class="overlay-container">
-                    <img class="media-object" src="images/blog-thumb-2.jpg" alt="blog-thumb">
-                    <a href="blog-post.html" class="overlay-link small"><i class="fa fa-link"></i></a>
-                  </div>
-                </div>
-                <div class="media-body">
-                  <h6 class="media-heading"><a href="blog-post.html">Lorem ipsum dolor sit amet...</a></h6>
-                  <p class="small margin-clear"><i class="fa fa-calendar pr-10"></i>Mar 22, 2015</p>
-                </div>
-                <hr>
-              </div>
-              <div class="media margin-clear">
-                <div class="media-left">
-                  <div class="overlay-container">
-                    <img class="media-object" src="images/blog-thumb-3.jpg" alt="blog-thumb">
-                    <a href="blog-post.html" class="overlay-link small"><i class="fa fa-link"></i></a>
-                  </div>
-                </div>
-                <div class="media-body">
-                  <h6 class="media-heading"><a href="blog-post.html">Lorem ipsum dolor sit amet...</a></h6>
-                  <p class="small margin-clear"><i class="fa fa-calendar pr-10"></i>Mar 21, 2015</p>
-                </div>
-                <hr>
-              </div>
-              <div class="media margin-clear">
-                <div class="media-left">
-                  <div class="overlay-container">
-                    <img class="media-object" src="images/blog-thumb-4.jpg" alt="blog-thumb">
-                    <a href="blog-post.html" class="overlay-link small"><i class="fa fa-link"></i></a>
-                  </div>
-                </div>
-                <div class="media-body">
-                  <h6 class="media-heading"><a href="blog-post.html">Lorem ipsum dolor sit amet...</a></h6>
-                  <p class="small margin-clear"><i class="fa fa-calendar pr-10"></i>Mar 21, 2015</p>
-                </div>
-              </div>
-              <div class="text-right space-top">
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
+
+          <div class="col-md-4">
             <div class="footer-content">
               <h2 class="title">Galeria</h2>
               <div class="separator-2"></div>
@@ -151,7 +93,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <div class="footer-content">
               <h2 class="title">Redes socias</h2>
               <div class="separator-2"></div>
@@ -169,7 +111,7 @@
                 <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999252922</li>
                 <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999881784</li>
                 <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 996905995</li>
-                <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>reservas@aventureiropipa.com</a></li>
+                <li><a href="contact.php?"><i class="fa fa-envelope-o pr-10"></i>reservas@aventureiropipa.com</a></li>
               </ul>
             </div>
           </div>
