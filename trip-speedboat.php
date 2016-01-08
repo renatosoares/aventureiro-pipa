@@ -60,6 +60,7 @@
           </div>
         </div>
         <!-- main end -->
+        <!-- preços e pagamentos -->
       <div class="main col-md-12">   
         <p>Preços:</p>
               <div class="col-md-6 ">
@@ -89,7 +90,9 @@
                 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
                 </div>  
               </div>  
+      <p>Após o pagamento reserve a data do seu passeio</p>        
       </div>      
+      <!-- final de preços e pagamentos -->
       </div>
     </div>
 </section>

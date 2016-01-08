@@ -248,7 +248,7 @@
           <h3>PASSEIO DE LANCHA</h3>
           <div class="separator clearfix"></div>
             <p>Passeio de lancha pelas praias da Pipa com paradas para apreciar um banho e a vista das belas praias. A lancha visita a praia do amor, as falésias do chapadão, a baía dos golfinhos, a praia do madeiro e a praia de cacimbinha</p>
-          <a href="trip-speedboat.php">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
+          <a href="trip-speedboat.php">Mais detalhes e pagamentos<i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
       <div class="col-md-4 ">
@@ -260,7 +260,7 @@
           <p>Passeio de Catamarã pela Lagoa de Guarairas com almoço e bebidas livre.
           Será possível tomar banhos e fazer paradas apreciando a beleza da paisagem.
           O lindo espetáculo do pôr do sol na lagoa, será inesquecível!</p>
-          <a href="trip-sunset.php">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
+          <a href="trip-sunset.php">Mais detalhes e pagamentos<i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
       <div class="col-md-4 ">
@@ -270,7 +270,7 @@
           <h3>PRAIAS DE PIPA</h3>
           <div class="separator clearfix"></div>
           <p>Passeio de catamarã ou escuna pelas praias da Pipa, visitando a Praia do Amor, as Falésias do Chapadão, Baía dos Golfinhos, Praia do Madeiro e a praia de cacimbinhas. Com parada para tomar banho nas praias</p>
-          <a href="trip-beaches.php">Mais detalhes <i class="pl-5 fa fa-angle-double-right"></i></a>
+          <a href="trip-beaches.php">Mais detalhes e pagamentos<i class="pl-5 fa fa-angle-double-right"></i></a>
         </div>
       </div>
     </div>
@@ -291,7 +291,7 @@
           <div class="row">
             <div class="col-sm-8">
               <h1 class="title">FAÇA SUA RESERVA E GANHE DESCONTO NA COMPRA ON-LINE</h1>
-              <p>Compras on-line possuem 10% de desconto. Entre em contato conosco para reservar seu passeio e para mais informações</p>
+              <p>Compras on-line possuem 10% de desconto. Para comprar, escolha o passeio acima e entre em contato conosco para reservar seu passeio e para mais informações</p>
             </div>
             <div class="col-sm-4">
               <br>
