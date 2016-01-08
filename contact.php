@@ -38,17 +38,17 @@
           <p class="lead text-center">Seria ótimo ouvir de você! Apenas deixe algumas linhas e sugira qualquer coisa com a qual você acha que poderia ser útil. Estamos ansiosos para ouvir de você!
 </p>
           <ul class="list-inline mb-20 text-center">
-            <li><i class="text-default fa fa-map-marker pr-5"></i>One infinity loop, 54100</li>
-            <li><a href="tel:+00 1234567890" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+00 1234567890</a></li>
-            <li><a href="mailto:info@theproject.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>info@theproject.com</a></li>
+            <li><i class="text-default fa fa-map-marker pr-5"></i>Praia de Pipa, RN, Brasil</li>
+            <li><a href="tel:+55 84 999252922" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+55 84 999252922</a></li>
+            <li><a href="mailto:reservas@aventureiropipa.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>reservas@aventureiropipa.com</a></li>
           </ul>
           <div class="separator"></div>
-          <ul class="social-links circle animated-effect-1 margin-clear text-center space-bottom">
-            <li class="facebook"><a target="_blank" href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
-            <li class="twitter"><a target="_blank" href="http://www.twitter.com/"><i class="fa fa-twitter"></i></a></li>
-            <li class="googleplus"><a target="_blank" href="http://plus.google.com/"><i class="fa fa-google-plus"></i></a></li>
-            <li class="linkedin"><a target="_blank" href="http://www.linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
-            <li class="xing"><a target="_blank" href="http://www.xing.com/"><i class="fa fa-xing"></i></a></li>
+          <ul class="social-links circle animated-effect-1">
+                <li class="facebook"><a target="_blank" href="https://www.facebook.com/Aventureiro-Passeios-de-Barco-104219146282250/?fref=ts"><i class="fa fa-facebook"></i></a></li>
+                <li class="twitter"><a target="_blank" href="https://twitter.com/aventureiropipa"><i class="fa fa-twitter"></i></a></li>
+                <li class="googleplus"><a target="_blank" href="https://plus.google.com/115363997268211609732/about"><i class="fa fa-google-plus"></i></a></li>
+                <li class="instagram"><a target="_blank" href="https://www.instagram.com/aventureiropasseiosdebarco/"><i class="fa fa-instagram"></i></a></li>
+                <li class="youtube"><a target="_blank" href="https://www.youtube.com/channel/UCChv2KdaMMPaKet2rZAM8xw"><i class="fa fa-youtube-play"></i></a></li>
           </ul>
         </div>
       </div>
@@ -69,7 +69,6 @@
           <h2 class="title">Deixe-nos uma mensagem</h2>
           <div class="row">
             <div class="col-md-6">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet quisquam.</p>
               <div class="alert alert-success  <?php echo $alert; ?>" id="MessageSent">
                 Recebemos sua mensagem, em breve vamos entrar em contato.
               </div>

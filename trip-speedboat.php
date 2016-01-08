@@ -19,8 +19,6 @@
             <div class="col-md-6">
               <p>Local de embarque: Praia do Centro</p>
               <p>Saídas (diariamente): a partir das 09h30</p>
-              <p>Adulto: R$40,00</p>
-              <p>Criança: R$30,00 (de 06 à 10 anos)</p>
               <p>Roteiro:</p>
               <ul class="list-icons">
                 <li><i class="icon-check-1"></i> Praia do Amor</li>
@@ -30,7 +28,10 @@
                 <li><i class="icon-check-1"></i> Praia de Cacimbinha</li>
               </ul>
               <p>Duração: 01 hora</p> 
-              <p>*Opcional: Aluguel por hora R$600, (incluso, piloto e ajudante) podendo contratar horas adicionais.</p>
+              
+  
+              
+              <p>*Opcional: Aluguel para passeios particulares por hora R$600, (incluso, piloto e ajudante) podendo contratar horas adicionais. Entre em contato para mais informações</p>
             </div>
             <div class="col-md-6">
               <div class="owl-carousel content-slider-with-controls">
@@ -59,7 +60,36 @@
           </div>
         </div>
         <!-- main end -->
-
+      <div class="main col-md-12">   
+        <p>Preços:</p>
+              <div class="col-md-6 ">
+                <div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+                  <p>Adulto: R$40,00</p>
+                  <p>Pague on-line e economize 10%</p>
+                  <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                  <form action="https://pagseguro.uol.com.br/checkout/v2/cart.html?action=add" method="post">
+                  <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                  <input type="hidden" name="itemCode" value="F132296820204B2664771FB21F3E067D" />
+                  <input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/209x48-pagar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                  </form>
+                  <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+                </div>
+              </div>
+  
+              <div class="col-md-6 "> 
+                <div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+                <p>Criança: R$30,00 (de 06 à 10 anos)</p>
+                <p>Pague on-line e economize 10%</p>
+                <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                <form action="https://pagseguro.uol.com.br/checkout/v2/cart.html?action=add" method="post">
+                <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                <input type="hidden" name="itemCode" value="9EA9BC2991916DAFF4E25FACA2936230" />
+                <input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/209x48-pagar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                </form>
+                <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+                </div>  
+              </div>  
+      </div>      
       </div>
     </div>
 </section>

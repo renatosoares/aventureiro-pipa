@@ -89,7 +89,7 @@
                 </div>
               </div>
               <div class="text-right space-top">
-                <a href="portfolio-grid-2-3-col.html" class="link-dark"><i class="fa fa-plus-circle pl-5 pr-5"></i>Mais</a>
+                <a target="_blank" href="https://www.instagram.com/aventureiropasseiosdebarco/" class="link-dark"><i class="fa fa-plus-circle pl-5 pr-5"></i>Mais</a>
               </div>
             </div>
           </div>
@@ -108,9 +108,9 @@
               <div class="separator-2"></div>
               <ul class="list-icons">
                 <li><i class="fa fa-map-marker pr-10 text-default"></i> Pipa, RN, Brasil</li>
-                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999252922</li>
-                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 999881784</li>
-                <li><i class="fa fa-phone pr-10 text-default"></i> +55 84 996905995</li>
+                <li><a href="tel:+55 84 999252922" class="link-dark"><i class="fa fa-phone pr-10 text-default"></a></i> +55 84 999252922</li>
+                <li><a href="tel:+55 84 999881784" class="link-dark"><i class="fa fa-phone pr-10 text-default"></a></i> +55 84 999881784</li>
+                <li><a href="tel:+55 84 996905995" class="link-dark"><i class="fa fa-phone pr-10 text-default"></a></i> +55 84 996905995</li>
                 <li><a href="contact.php?assunto=Reserva#message"><i class="fa fa-envelope-o pr-10"></i>reservas@aventureiropipa.com</a></li>
               </ul>
             </div>
@@ -128,7 +128,7 @@
       <div class="subfooter-inner">
         <div class="row">
           <div class="col-md-12">
-            <p class="text-center">Copyright © 2015  <a target="_blank" href="http://www.rexweb.com.br">REXweb</a>. All Rights Reserved</p>
+            <p class="text-center">Copyright © 2016  <a target="_blank" href="http://www.rexweb.com.br">REXweb</a>. All Rights Reserved</p>
           </div>
         </div>
       </div>
