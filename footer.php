@@ -42,7 +42,7 @@
                 <div class="col-xs-4 col-md-6">
                   <div class="overlay-container mb-10">
                     <img src="images/gallery-1.jpg" alt="">
-                    <a href="portfolio-item.html" class="overlay-link small">
+                    <a href="images/gallery-1-big.jpg" class="popup-img overlay-link small">
                       <i class="fa fa-link"></i>
                     </a>
                   </div>
@@ -50,7 +50,7 @@
                 <div class="col-xs-4 col-md-6">
                   <div class="overlay-container mb-10">
                     <img src="images/gallery-2.jpg" alt="">
-                    <a href="portfolio-item.html" class="overlay-link small">
+                    <a href="images/gallery-2-big.jpg" class="popup-img overlay-link small">
                       <i class="fa fa-link"></i>
                     </a>
                   </div>
@@ -58,7 +58,7 @@
                 <div class="col-xs-4 col-md-6">
                   <div class="overlay-container mb-10">
                     <img src="images/gallery-3.jpg" alt="">
-                    <a href="portfolio-item.html" class="overlay-link small">
+                    <a href="images/gallery-3-big.jpg" class="popup-img overlay-link small">
                       <i class="fa fa-link"></i>
                     </a>
                   </div>
@@ -66,7 +66,7 @@
                 <div class="col-xs-4 col-md-6">
                   <div class="overlay-container mb-10">
                     <img src="images/gallery-4.jpg" alt="">
-                    <a href="portfolio-item.html" class="overlay-link small">
+                    <a href="images/gallery-4-big.jpg" class="popup-img overlay-link small">
                       <i class="fa fa-link"></i>
                     </a>
                   </div>
@@ -74,7 +74,7 @@
                 <div class="col-xs-4 col-md-6">
                   <div class="overlay-container mb-10">
                     <img src="images/gallery-5.jpg" alt="">
-                    <a href="portfolio-item.html" class="overlay-link small">
+                    <a href="images/gallery-5-big.jpg" class="popup-img overlay-link small">
                       <i class="fa fa-link"></i>
                     </a>
                   </div>
@@ -82,7 +82,7 @@
                 <div class="col-xs-4 col-md-6">
                   <div class="overlay-container mb-10">
                     <img src="images/gallery-6.jpg" alt="">
-                    <a href="portfolio-item.html" class="overlay-link small">
+                    <a href="images/gallery-6-big.jpg" class="popup-img overlay-link small">
                       <i class="fa fa-link"></i>
                     </a>
                   </div>
