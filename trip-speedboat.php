@@ -17,14 +17,20 @@
           <div class="separator-2"></div>
           <div class="row">
             <div class="col-md-6">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus illo vero cupiditate, sed enim voluptatibus provident consectetur. Quo dolor sunt nostrum, eligendi illo accusamus odit, ipsam excepturi voluptatem nulla minus.</p>
-              <p>Blanditiis aspernatur, non quasi, maxime corporis officiis quia. Cupiditate, voluptatibus ducimus, natus, labore mollitia dolorem incidunt voluptatum, delectus eius fugit porro placeat animi voluptatem autem hic eligendi sint. Amet pariatur odit repudiandae sunt. Rem ipsum dolor sit amet, consectetur adipisicing elit. Sunt asperiores a.</p>
+              <p>Local de embarque: Praia do Centro</p>
+              <p>Saídas (diariamente): a partir das 09h30</p>
+              <p>Adulto: R$40,00</p>
+              <p>Criança: R$30,00 (de 06 à 10 anos)</p>
+              <p>Roteiro:</p>
               <ul class="list-icons">
-                <li><i class="icon-check-1"></i> We are here to support you</li>
-                <li><i class="icon-check-1"></i> Free updates</li>
-                <li><i class="icon-check-1"></i> Unlimited options and variations</li>
-                <li><i class="icon-check-1"></i> ipsam asperiores fugiat quo</li>
+                <li><i class="icon-check-1"></i> Praia do Amor</li>
+                <li><i class="icon-check-1"></i> Falésias do Chapadão, (Pedra símbolo de Pipa)</li>
+                <li><i class="icon-check-1"></i> Baía dos Golfinhos</li>
+                <li><i class="icon-check-1"></i> Praia do Madeiro</li>
+                <li><i class="icon-check-1"></i> Praia de Cacimbinha</li>
               </ul>
+              <p>Duração: 01 hora</p> 
+              <p>*Opcional: Aluguel por hora R$600, (incluso, piloto e ajudante) podendo contratar horas adicionais.</p>
             </div>
             <div class="col-md-6">
               <div class="owl-carousel content-slider-with-controls">
@@ -32,7 +38,6 @@
                   <img src="images/lancha-proxima.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
                     <div class="text">
-                      <h3 class="title">Podemos fazê-lo</h3>
                     </div>
                   </div>
                   <a href="images/lancha-proxima.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
@@ -40,20 +45,14 @@
                 <div class="overlay-container overlay-visible">
                   <img src="images/mulher-oculus-azul-bebida.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Você pode confiar em nós</h3>
-                    </div>
                   </div>
                   <a href="images/mulher-oculus-azul-bebida.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
-                  <img src="images/coqueiros-margem.jpg" alt="">
+                  <img src="images/praia-golfinho.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Nós amamos o que fazemos</h3>
-                    </div>
                   </div>
-                  <a href="images/coqueiros-margem.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                  <a href="images/praia-golfinho.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
               </div>
             </div>

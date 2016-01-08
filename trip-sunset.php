@@ -17,43 +17,51 @@
           <div class="separator-2"></div>
           <div class="row">
             <div class="col-md-6">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus illo vero cupiditate, sed enim voluptatibus provident consectetur. Quo dolor sunt nostrum, eligendi illo accusamus odit, ipsam excepturi voluptatem nulla minus.</p>
-              <p>Blanditiis aspernatur, non quasi, maxime corporis officiis quia. Cupiditate, voluptatibus ducimus, natus, labore mollitia dolorem incidunt voluptatum, delectus eius fugit porro placeat animi voluptatem autem hic eligendi sint. Amet pariatur odit repudiandae sunt. Rem ipsum dolor sit amet, consectetur adipisicing elit. Sunt asperiores a.</p>
+              <p>Passeio de Catamarã pela Lagoa de Guarairas com almoço e bebidas livre.
+                Vocês terão visões exclusivas deste cenário formado por ilhas e praias paradisíacas.
+                Será possível tomar banhos e fazer paradas apreciando a beleza da paisagem.
+                O lindo espetáculo do pôr do sol na lagoa, será inesquecível!</p>
+              <p>Roteiro:</p> 
               <ul class="list-icons">
-                <li><i class="icon-check-1"></i> We are here to support you</li>
-                <li><i class="icon-check-1"></i> Free updates</li>
-                <li><i class="icon-check-1"></i> Unlimited options and variations</li>
-                <li><i class="icon-check-1"></i> ipsam asperiores fugiat quo</li>
+                <li><i class="icon-check-1"></i> Baía dos Golfinhos</li>
+                <li><i class="icon-check-1"></i> Praia do Madeiro</li>
+                <li><i class="icon-check-1"></i> Praia de Cacimbinha</li>
+                <li><i class="icon-check-1"></i> Praia do Giz</li>
+                <li><i class="icon-check-1"></i> Lagoa de Guaraíras</li>
               </ul>
+              <p>Almoço:</p> 
+              <ul class="list-icons">
+                <li><i class="icon-check-1"></i> Petiscos e bruschettas</li>
+                <li><i class="icon-check-1"></i> Espetos de peixe, camarão e frango</li>
+                <li><i class="icon-check-1"></i> Arroz, salada e frutas</li>
+              </ul>
+              <p>Bebidas:</p> 
+              <ul class="list-icons">
+                <li><i class="icon-check-1"></i> Caipirinha, caipiroska, caipifruta, cerveja, refrigerante e agua.</li>
+              </ul>
+              <p>Preços:</p>
+              <p>Adulto:R$185,00</p>
+              <p>Criança:R$130,00 ( de 6 à 10 anos )</p>
             </div>
             <div class="col-md-6">
               <div class="owl-carousel content-slider-with-controls">
                 <div class="overlay-container overlay-visible">
-                  <img src="images/catamara.jpg" alt="">
+                  <img src="images/catamara2.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Podemos fazê-lo</h3>
-                    </div>
                   </div>
                   <a href="images/catamara.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
                   <img src="images/catamara-por-sol.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Você pode confiar em nós</h3>
-                    </div>
                   </div>
                   <a href="images/catamara-por-sol.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
-                  <img src="images/pordosol-paisagem.jpg" alt="">
+                  <img src="images/comida_slide.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Nós amamos o que fazemos</h3>
-                    </div>
                   </div>
-                  <a href="images/pordosol-paisagem.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                  <a href="images/comida.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
               </div>
             </div>

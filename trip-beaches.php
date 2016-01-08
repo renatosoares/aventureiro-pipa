@@ -13,45 +13,41 @@
         <!-- main start -->
         <!-- ================ -->
         <div class="main col-md-12">
-          <h3 class="title">PRAIAS DE <strong>PIPA</strong></h3>
+          <h3 class="title">PRAIAS DE <strong>PIPA</strong> (Catamarã e Escuna)</h3>
           <div class="separator-2"></div>
           <div class="row">
             <div class="col-md-6">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus illo vero cupiditate, sed enim voluptatibus provident consectetur. Quo dolor sunt nostrum, eligendi illo accusamus odit, ipsam excepturi voluptatem nulla minus.</p>
-              <p>Blanditiis aspernatur, non quasi, maxime corporis officiis quia. Cupiditate, voluptatibus ducimus, natus, labore mollitia dolorem incidunt voluptatum, delectus eius fugit porro placeat animi voluptatem autem hic eligendi sint. Amet pariatur odit repudiandae sunt. Rem ipsum dolor sit amet, consectetur adipisicing elit. Sunt asperiores a.</p>
+              <p>Local de embarque: Praia do Centro</p>
+              <p>Saídas (diariamente): 10h30, 11h30, 13h30</p>
+              <p>Adulto: R$50,00</p>
+              <p>Criança: R$30,00 (de 06 à 10 anos)</p>
+              <p>Roteiro:</p>
               <ul class="list-icons">
-                <li><i class="icon-check-1"></i> We are here to support you</li>
-                <li><i class="icon-check-1"></i> Free updates</li>
-                <li><i class="icon-check-1"></i> Unlimited options and variations</li>
-                <li><i class="icon-check-1"></i> ipsam asperiores fugiat quo</li>
+                <li><i class="icon-check-1"></i> Praia do Amor</li>
+                <li><i class="icon-check-1"></i> Falésias do Chapadão, (Pedra símbolo de Pipa)</li>
+                <li><i class="icon-check-1"></i> Baía dos Golfinhos</li>
+                <li><i class="icon-check-1"></i> Praia do Madeiro</li>
+                <li><i class="icon-check-1"></i> Praia de Cacimbinhas</li>
               </ul>
+              <p>Duração: 01 hora e 30 minutos</p>
             </div>
             <div class="col-md-6">
               <div class="owl-carousel content-slider-with-controls">
                 <div class="overlay-container overlay-visible">
                   <img src="images/praias.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Podemos fazê-lo</h3>
-                    </div>
                   </div>
                   <a href="images/praias.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
-                  <img src="images/mulher-chapeu.jpg" alt="">
+                  <img src="images/passeio-lancha.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Você pode confiar em nós</h3>
-                    </div>
                   </div>
-                  <a href="images/mulher-chapeu.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                  <a href="images/passeio-lancha.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
                 <div class="overlay-container overlay-visible">
                   <img src="images/praia-golfinho.jpg" alt="">
                   <div class="overlay-bottom hidden-xs">
-                    <div class="text">
-                      <h3 class="title">Nós amamos o que fazemos</h3>
-                    </div>
                   </div>
                   <a href="images/praia-golfinho.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
                 </div>
