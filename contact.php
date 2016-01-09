@@ -40,7 +40,7 @@
           <ul class="list-inline mb-20 text-center">
             <li><i class="text-default fa fa-map-marker pr-5"></i>Praia de Pipa, RN, Brasil</li>
             <li><a href="tel:+55 84 999252922" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+55 84 999252922</a></li>
-            <li><a href="mailto:reservas@aventureiropipa.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>reservas@aventureiropipa.com</a></li>
+            <li><a href="contact.php?assunto=Reserva#message" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>reservas@aventureiropipa.com</a></li>
           </ul>
           <div class="separator"></div>
           <ul class="social-links circle animated-effect-1">
@@ -115,9 +115,6 @@
   </section>
   <!-- main-container end -->
 
-  <!-- section start -->
-  <!-- ================ -->
-  
   <div class="clearfix"></div>
   <!-- section end -->
 
