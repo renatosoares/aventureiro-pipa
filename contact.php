@@ -1,19 +1,22 @@
 <?php  require 'header.php'; ?>
 <?php
+// recebe os valores do formulário sem tratameto
   $name = $_POST['name'];
   $email = $_POST['email'];
   $subject = $_POST['subject'];
-  $message = $_POST['message'] . "\n Essa mensagem foi enviad por:" . $name;
+  $message = $_POST['message'] . "\n Essa mensagem foi enviad por: " . $name;
 
+// email que recebe as mensagens
   $to = 'renatosoarespro@gmail.com';
-
+  
+// envio dos dados
   mail($to, $subject, $message, 'From:' . $email);
 
+// Mosta mensagem de alerta sobre envio do email.
   $alert = "hidden";
   if ($_POST["submit"]) {
     $alert = "";
   }
-
  ?>
 
   <!-- banner start -->
