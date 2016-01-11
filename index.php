@@ -90,7 +90,7 @@
             data-speed="500"
             data-easing="easeOutQuad"
             data-start="1000"
-            data-end="5500"><span class="icon large circle"><i class="circle icon-lightbulb"></i></span>
+            data-end="5500"><span class="icon large circle"><i class="fa fa-map"></i></span>
           </div>
 
           <!-- LAYER NR. 6 -->
@@ -100,7 +100,7 @@
             data-speed="500"
             data-easing="easeOutQuad"
             data-start="2500"
-            data-end="5500"><span class="icon large circle"><i class="circle icon-arrows-ccw"></i></span>
+            data-end="5500"><span class="icon large circle"><i class="fa fa-tree"></i></span>
           </div>
 
           <!-- LAYER NR. 7 -->
@@ -111,7 +111,7 @@
             data-speed="500"
             data-easing="easeOutQuad"
             data-start="4000"
-            data-end="5500"><span class="icon large circle"><i class="circle icon-chart-line"></i></span>
+            data-end="5500"><span class="icon large circle"><i class="fa fa-sun-o"></i></span>
           </div>
 
           <!-- LAYER NR. 8 -->
@@ -183,7 +183,7 @@
             data-speed="500"
             data-start="1300"
             data-easing="easeOutQuad"
-            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="fa fa-laptop"></i></span> 100% Satisfação
+            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="fa fa-smile-o"></i></span> 100% Satisfação
           </div>
 
           <!-- LAYER NR. 3 -->
@@ -193,7 +193,7 @@
             data-speed="500"
             data-start="1600"
             data-easing="easeOutQuad"
-            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="icon-check"></i></span> Sossego
+            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="fa fa-leaf"></i></span> Sossego
           </div>
 
           <!-- LAYER NR. 4 -->
@@ -203,7 +203,7 @@
             data-speed="500"
             data-start="1900"
             data-easing="easeOutQuad"
-            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="icon-gift"></i></span> Tranquilidade
+            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="fa fa-anchor"></i></span> Tranquilidade
           </div>
 
           <!-- LAYER NR. 5 -->
@@ -213,7 +213,7 @@
             data-speed="500"
             data-start="2200"
             data-easing="easeOutQuad"
-            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="icon-hourglass"></i></span> Golfinhos
+            data-endspeed="600"><span class="icon default-bg circle small hidden-xs"><i class="fa fa-heart-o"></i></span> Golfinhos
           </div>
           </li>
           <!-- slide 2 end -->
